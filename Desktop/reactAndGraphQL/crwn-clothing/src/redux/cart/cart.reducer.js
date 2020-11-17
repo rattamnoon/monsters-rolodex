@@ -1,4 +1,3 @@
-import { act } from "react-dom/test-utils";
 import CartActionTypes from "./cart.types";
 import { addItemToCart, removeItemFromCart } from "./cart.utils";
 
