@@ -8,6 +8,8 @@
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
     "axios": "^0.21.0",
+    "compression": "^1.7.4",
+    "express-sslify": "^1.2.0",
     "firebase": "^8.0.1",
     "heroku": "^7.47.2",
     "lodash.memoize": "^4.1.2",
